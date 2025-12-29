@@ -39,7 +39,7 @@ excel-sales-dashboard-supermarket/
 ├── images/
 │   └── dashboard_preview.png
 └── README.md
-
+```
 
 
 ## 🖼️ Dashboard Preview
