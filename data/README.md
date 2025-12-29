@@ -29,18 +29,17 @@ The dashboard provides insights into revenue, sales trends, product performance,
 - Naypyitaw records the highest average customer rating, while Mandalay shows comparatively lower ratings.
 
 ## 📁 File Structure
+
+```text
 excel-sales-dashboard-supermarket/
-│
 ├── data/
-│ └── supermarket_sales.xlsx
-│
+│   └── supermarket_sales.xlsx
 ├── dashboard/
-│ └── sales_dashboard.xlsx
-│
+│   └── sales_dashboard.xlsx
 ├── images/
-│ └── dashboard_preview.png
-│
+│   └── dashboard_preview.png
 └── README.md
+
 
 
 ## 🖼️ Dashboard Preview
